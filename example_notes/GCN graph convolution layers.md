@@ -1,0 +1,1 @@
+[blog on GCN more specifically](http://tkipf.github.io/graph-convolutional-networks/)

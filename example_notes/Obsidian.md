@@ -1,0 +1,2 @@
+- source: https://obsidian.md/
+- tags: #notetaking #tool
